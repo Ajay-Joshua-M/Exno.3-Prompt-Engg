@@ -42,9 +42,9 @@ Each scenario was tested with all three prompting techniques. The chatbot's resp
 
 ![image alt](https://github.com/Ajay-Joshua-M/Exno.3-Prompt-Engg/blob/69de19cb53c305b21ee4fc29692fa6fec2575be5/IMAGES/Screenshot%202025-05-25%20232821.png)
 
-Analysis:
+# Analysis:
 
-
+![image alt](https://github.com/Ajay-Joshua-M/Exno.3-Prompt-Engg/blob/2a0a1658025cc43859f482e213034de5bde4a009/IMAGES/Screenshot%202025-05-25%20233123.png)
 
 # Evaluation and Observations:
 •	Straightforward Prompting was very effective for direct questions like order status or simple return policies.
