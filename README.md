@@ -40,6 +40,8 @@ Prompt	Prompting Type	Bot Response
 "List my recent orders, their status, and expected delivery dates in a table."	Tabular Format Prompt	(Bot Response: neat table with Order ID, Status, Expected Delivery columns)
 "My order is delayed." ➔ "It’s delayed due to weather." ➔ "Can I cancel it?"	Preceding Question Prompt	(Bot guides the customer to cancellation options after explaining the delay.)
 
+![image alt](https://github.com/Ajay-Joshua-M/Exno.3-Prompt-Engg/blob/2ba4337635fd099c362b96836269b6c437d15711/IMAGES/Screenshot%202025-05-25%20232415.png)
+
 # Scenario 3: General Inquiry
 Prompt	Prompting Type	Bot Response
 "What is your return policy?"	Straightforward Prompt	"You can return products within 30 days, provided they are unused and in original packaging."
