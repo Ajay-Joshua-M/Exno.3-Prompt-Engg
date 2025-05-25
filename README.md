@@ -28,6 +28,8 @@ We simulated 3 core customer support scenarios:
 3.	General Inquiry
 Each scenario was tested with all three prompting techniques. The chatbot's responses were recorded and evaluated based on clarity, accuracy, user-friendliness, and contextual appropriateness.
 
+![image alt](https://github.com/Ajay-Joshua-M/Exno.3-Prompt-Engg/blob/c96644c03d263665e34f345824c758fd6d1d97cf/IMAGES/image.png)
+
 # Scenario 1: Product Troubleshooting
 Prompt	Prompting Type	Bot Response
 "My laptop screen is flickering. What should I do?"	Straightforward Prompt	"Please try restarting your laptop. If the issue persists, update your graphics driver or contact our support team."
