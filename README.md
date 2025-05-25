@@ -31,10 +31,8 @@ Each scenario was tested with all three prompting techniques. The chatbot's resp
 ![image alt](https://github.com/Ajay-Joshua-M/Exno.3-Prompt-Engg/blob/c96644c03d263665e34f345824c758fd6d1d97cf/IMAGES/image.png)
 
 # Scenario 1: Product Troubleshooting
-Prompt	Prompting Type	Bot Response
-"My laptop screen is flickering. What should I do?"	Straightforward Prompt	"Please try restarting your laptop. If the issue persists, update your graphics driver or contact our support team."
-"Provide troubleshooting steps for a flickering laptop screen in a table."	Tabular Format Prompt	(Bot Response: shows a table with columns like Problem, Solution, Next Step)
-"My laptop screen is flickering." ➔ "Did you recently drop it?" ➔ "No." ➔ "Let’s check your graphics driver settings."	Preceding Question Prompt	Conversational follow-up based on user replies
+
+![image alt](https://github.com/Ajay-Joshua-M/Exno.3-Prompt-Engg/blob/3069c86d0c32ed5866aa41ad640ebd21ed5ab00f/IMAGES/Screenshot%202025-05-25%20232415.png)
 
 # Scenario 2: Order Tracking
 Prompt	Prompting Type	Bot Response
