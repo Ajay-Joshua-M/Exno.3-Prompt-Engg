@@ -35,24 +35,16 @@ Each scenario was tested with all three prompting techniques. The chatbot's resp
 ![image alt](https://github.com/Ajay-Joshua-M/Exno.3-Prompt-Engg/blob/3069c86d0c32ed5866aa41ad640ebd21ed5ab00f/IMAGES/Screenshot%202025-05-25%20232415.png)
 
 # Scenario 2: Order Tracking
-Prompt	Prompting Type	Bot Response
-"Where is my order #12345?"	Straightforward Prompt	"Your order #12345 is out for delivery and will reach you by 7 PM today."
-"List my recent orders, their status, and expected delivery dates in a table."	Tabular Format Prompt	(Bot Response: neat table with Order ID, Status, Expected Delivery columns)
-"My order is delayed." ➔ "It’s delayed due to weather." ➔ "Can I cancel it?"	Preceding Question Prompt	(Bot guides the customer to cancellation options after explaining the delay.)
 
 ![image alt](https://github.com/Ajay-Joshua-M/Exno.3-Prompt-Engg/blob/2ba4337635fd099c362b96836269b6c437d15711/IMAGES/Screenshot%202025-05-25%20232415.png)
 
 # Scenario 3: General Inquiry
-Prompt	Prompting Type	Bot Response
-"What is your return policy?"	Straightforward Prompt	"You can return products within 30 days, provided they are unused and in original packaging."
-"List return conditions, refund methods, and processing times in a table."	Tabular Format Prompt	(Bot Response: table showing conditions for return, refund timelines, and payment modes.)
-"Can I return a used product?" ➔ "Generally no, unless it’s defective." ➔ "How do I file for a defective product?"	Preceding Question Prompt	Step-by-step help conversation for returns.
 
-# Prompting Type	Best Used For	Strengths	Weaknesses
-Straightforward Prompting	Quick, factual answers	Very fast, direct	May feel robotic sometimes
-Tabular Format Prompting	Structured information (orders, policies)	Clear for multi-item information	Not conversational
-Preceding Question Prompting	Natural, detailed troubleshooting	Feels human, easy to guide complex processes	May take longer
+![image alt](https://github.com/Ajay-Joshua-M/Exno.3-Prompt-Engg/blob/69de19cb53c305b21ee4fc29692fa6fec2575be5/IMAGES/Screenshot%202025-05-25%20232821.png)
+
 Analysis:
+
+
 
 # Evaluation and Observations:
 •	Straightforward Prompting was very effective for direct questions like order status or simple return policies.
